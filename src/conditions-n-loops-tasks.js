@@ -398,7 +398,7 @@ function rotateMatrix(matrix) {
     }
   }
 
-  return matrix;
+  return copyMatrix;
 }
 
 /**
